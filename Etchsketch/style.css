@@ -1,0 +1,14 @@
+h1{
+    font: Lato;
+    text-align: center;
+
+}
+
+
+.grid-container {
+    display:grid;
+    background-color: brown;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
